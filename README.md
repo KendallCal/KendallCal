@@ -5,11 +5,10 @@
 ### Software Development · Cloud Computing · Applied Artificial Intelligence
 
 <p>
-I build thoughtful digital solutions by combining software, cloud technologies, and applied AI.
+Building thoughtful digital solutions with clarity, purpose, and continuous improvement.
 </p>
 
-<br>
-
+<p>
 <a href="https://www.kendallc.dev/">
   <img src="https://img.shields.io/badge/Portfolio-kendallc.dev-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0F14" alt="Portfolio">
 </a>
@@ -19,198 +18,81 @@ I build thoughtful digital solutions by combining software, cloud technologies, 
 <a href="mailto:kendallcr2012@gmail.com">
   <img src="https://img.shields.io/badge/Contact-Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F14" alt="Email">
 </a>
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Software_Development-0EA5E9?style=flat-square&logo=codefactor&logoColor=white" alt="Software Development">
-<img src="https://img.shields.io/badge/Cloud_Computing-F59E0B?style=flat-square&logo=icloud&logoColor=white" alt="Cloud Computing">
+<p>
+<img src="https://img.shields.io/badge/Software-0EA5E9?style=flat-square&logo=codefactor&logoColor=white" alt="Software">
+<img src="https://img.shields.io/badge/Cloud-F59E0B?style=flat-square&logo=icloud&logoColor=white" alt="Cloud">
 <img src="https://img.shields.io/badge/Applied_AI-06B6D4?style=flat-square&logo=openai&logoColor=white" alt="Applied AI">
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-
-## About Me
-
-</div>
+## ✦ About Me
 
 I'm an IT professional in the final stage of my **Computer Engineering degree at UNED Costa Rica**, with my academic coursework completed and only the **Final Graduation Project** remaining.
 
-My professional interests are centered on **software development, cloud computing, and applied artificial intelligence**.
+My main interests are **software development, cloud computing, and applied artificial intelligence**.
 
-I enjoy understanding the problem first, evaluating different approaches, and choosing the technologies that best fit the solution. My goal is to turn ideas into software that is clear, useful, maintainable, and well thought out.
+I enjoy understanding the problem first, evaluating different approaches, and choosing the right technologies to build practical, maintainable, and well-thought-out solutions.
 
-> **Understand the problem. Choose the right tools. Build with purpose.**
+> **Understand the problem · Choose the right tools · Build with purpose**
 
 ---
 
-<div align="center">
+## ✦ Featured Projects
 
-## Featured Projects
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top" align="center">
 
-<h3>🚦 EduvialCR</h3>
+### 🚦 EduvialCR
 
-<img src="./assets/EduvialCR.png" alt="EduvialCR" width="100%">
+<img src="./assets/EduvialCR.png" alt="EduvialCR" width="95%">
 
-<br><br>
-
-<img src="https://img.shields.io/badge/IN_PROGRESS-F59E0B?style=flat-square&logo=clockify&logoColor=white" alt="In Progress">
-<img src="https://img.shields.io/badge/PRIVATE_REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="Private Repository">
-
-<br><br>
+<p>
+<img src="https://img.shields.io/badge/In_Progress-F59E0B?style=flat-square&logo=clockify&logoColor=white&labelColor=0B0F14" alt="In Progress">
+<img src="https://img.shields.io/badge/Private_Repository-181717?style=flat-square&logo=github&logoColor=white&labelColor=0B0F14" alt="Private Repository">
+</p>
 
 <p align="left">
-EdTech platform designed to help people in Costa Rica prepare for the theoretical driving exam through structured learning, quizzes, and simulations.
+EdTech platform for helping people in Costa Rica prepare for the theoretical driving exam through structured learning, quizzes, and simulations.
 </p>
 
 <p align="left">
 <strong>Current stage:</strong> Frontend development in progress.
 </p>
 
-<br>
-
 </td>
 
 <td width="50%" valign="top" align="center">
 
-<h3>🌐 Personal Portfolio</h3>
+### 🌐 Personal Portfolio
 
 <a href="https://www.kendallc.dev/">
-  <img src="./assets/Portfolio.png" alt="Personal Portfolio" width="100%">
+  <img src="./assets/Portfolio.png" alt="Personal Portfolio" width="95%">
 </a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-
-<br><br>
+<p>
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white&labelColor=0B0F14" alt="Astro">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0B0F14" alt="Tailwind CSS">
+</p>
 
 <p align="left">
-My personal developer portfolio, created to showcase my projects, experience, technical interests, and professional profile through a clean and responsive experience.
+My personal developer portfolio, created to present my projects, experience, technical interests, and professional profile through a clean and modern experience.
 </p>
 
 <p align="center">
-
 <a href="https://www.kendallc.dev/">
-  <img src="https://img.shields.io/badge/OPEN_WEBSITE-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0F14" alt="Open Website">
+  <img src="https://img.shields.io/badge/Open_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0F14" alt="Open Website">
 </a>
-
 <a href="https://github.com/KendallCal/portfolio">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-27272A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F14" alt="Source Code">
+  <img src="https://img.shields.io/badge/Source_Code-27272A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F14" alt="Source Code">
 </a>
-
 </p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-## Selected Projects
-
-</div>
-
-<table>
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-<h3>🎬 VideotecaUNED</h3>
-
-<a href="https://github.com/KendallCal/VideotecaUNED">
-  <img src="./assets/VideotecaUNED.png" alt="VideotecaUNED" width="100%">
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
-
-<br><br>
-
-<p align="left">
-Client-server movie rental system developed with <strong>C#, .NET, SQL Server and TCP/IP</strong>, including concurrent client connections and multithreading.
-</p>
-
-<br>
-
-<a href="https://github.com/KendallCal/VideotecaUNED">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-27272A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F14" alt="View Repository">
-</a>
-
-<br><br>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<h3>🌳 BST Visualizer</h3>
-
-<a href="https://github.com/KendallCal/BinarySearchTreeVisualizer">
-  <img src="./assets/Binary%20Search%20Tree%20Visualizer.png" alt="Binary Search Tree Visualizer" width="100%">
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Swing-0EA5E9?style=flat-square&logoColor=white" alt="Swing">
-
-<br><br>
-
-<p align="left">
-Interactive Java application for exploring <strong>Binary Search Tree</strong> operations including insertion, deletion, search, traversal, and graphical visualization.
-</p>
-
-<br>
-
-<a href="https://github.com/KendallCal/BinarySearchTreeVisualizer">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-27272A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F14" alt="View Repository">
-</a>
-
-<br><br>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<h3>⚙️ BankerSim</h3>
-
-<a href="https://github.com/KendallCal/BankerSim">
-  <img src="./assets/Simulador.png" alt="BankerSim" width="100%">
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Operating_Systems-F59E0B?style=flat-square" alt="Operating Systems">
-
-<br><br>
-
-<p align="left">
-Interactive implementation of the <strong>Banker's Algorithm</strong> for resource allocation, safe-state analysis, and deadlock avoidance in operating systems.
-</p>
-
-<br>
-
-<a href="https://github.com/KendallCal/BankerSim">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-27272A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F14" alt="View Repository">
-</a>
-
-<br><br>
 
 </td>
 
@@ -219,25 +101,124 @@ Interactive implementation of the <strong>Banker's Algorithm</strong> for resour
 
 ---
 
-<div align="center">
+## ✦ Selected Projects
 
-## What I'm Working On
+<table width="100%">
+<tr>
 
-<br>
+<td width="33.33%" valign="top" align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+EduvialCR...;Exploring+Software%2C+Cloud+and+Applied+AI...;Turning+ideas+into+working+software..."
-  alt="Current focus animation"
->
+### 🎬 VideotecaUNED
 
-<br>
+<a href="https://github.com/KendallCal/VideotecaUNED">
+  <img src="./assets/VideotecaUNED.png" alt="VideotecaUNED" width="92%">
+</a>
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0B0F14" alt="C#">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0B0F14" alt=".NET">
+</p>
+
+<p align="left">
+Client-server movie rental system built with <strong>C#, .NET, SQL Server, and TCP/IP</strong>.
+</p>
+
+<p align="center">
+<a href="https://github.com/KendallCal/VideotecaUNED">
+  <img src="https://img.shields.io/badge/View_Repository-27272A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F14" alt="View Repository">
+</a>
+</p>
+
+</td>
+
+<td width="33.33%" valign="top" align="center">
+
+### 🌳 BST Visualizer
+
+<a href="https://github.com/KendallCal/BinarySearchTreeVisualizer">
+  <img src="./assets/Binary%20Search%20Tree%20Visualizer.png" alt="BST Visualizer" width="92%">
+</a>
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0B0F14" alt="Java">
+<img src="https://img.shields.io/badge/Swing-0EA5E9?style=flat-square&labelColor=0B0F14" alt="Swing">
+</p>
+
+<p align="left">
+Interactive Java application for <strong>Binary Search Tree</strong> operations and visualization.
+</p>
+
+<p align="center">
+<a href="https://github.com/KendallCal/BinarySearchTreeVisualizer">
+  <img src="https://img.shields.io/badge/View_Repository-27272A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F14" alt="View Repository">
+</a>
+</p>
+
+</td>
+
+<td width="33.33%" valign="top" align="center">
+
+### ⚙️ BankerSim
+
+<a href="https://github.com/KendallCal/BankerSim">
+  <img src="./assets/Simulador.png" alt="BankerSim" width="92%">
+</a>
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0B0F14" alt="Java">
+<img src="https://img.shields.io/badge/Operating_Systems-F59E0B?style=flat-square&labelColor=0B0F14" alt="Operating Systems">
+</p>
+
+<p align="left">
+Interactive implementation of the <strong>Banker’s Algorithm</strong> for safe-state analysis and deadlock avoidance.
+</p>
+
+<p align="center">
+<a href="https://github.com/KendallCal/BankerSim">
+  <img src="https://img.shields.io/badge/View_Repository-27272A?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F14" alt="View Repository">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## ✦ Current Focus
 
 ```text
-CURRENTLY
+Currently
 ├── Building      → EduvialCR
-├── Improving     → Software Development
+├── Strengthening → Software Development
 ├── Exploring     → Cloud Computing
 ├── Applying      → Artificial Intelligence
 └── Looking for   → Professional opportunities
+```
+
+---
+
+<div align="center">
+
+## ✦ Let's Connect
+
+<p>
+I'm open to professional opportunities, collaboration, and conversations around software, cloud, and technology.
+</p>
+
+<p>
+<a href="https://www.kendallc.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0F14" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/kendallcal/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F14" alt="LinkedIn">
+</a>
+<a href="mailto:kendallcr2012@gmail.com">
+  <img src="https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F14" alt="Email">
+</a>
+</p>
+
+<sub><strong>Think clearly · Build carefully · Keep improving</strong></sub>
+
+</div>
